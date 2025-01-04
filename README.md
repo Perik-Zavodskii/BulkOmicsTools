@@ -1,2 +1,2 @@
 # MetaboloTools
- Perform matobolomic analysis of the LC-MS-MS data.
+ Perform PCA, clustering and correlation analyses of the LC-MS-MS matobolomic data.
