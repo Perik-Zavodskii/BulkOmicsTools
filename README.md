@@ -1,5 +1,5 @@
-# MetaboloTools
-Perform PCA, clustering and correlation analyses of the LC-MS-MS metabolomic data.
+# Bulk Omics Tools
+Perform PCA, clustering and correlation analyses of the bulk omics data.
 
 Data used for testing:
 Ivanisenko, V.A., Gaisler, E.V., Basov, N.V. et al. Plasma metabolomics and gene regulatory networks analysis reveal the role of nonstructural SARS-CoV-2 viral proteins in metabolic dysregulation in COVID-19 patients. Sci Rep 12, 19977 (2022). 
