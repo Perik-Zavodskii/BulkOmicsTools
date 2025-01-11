@@ -1,4 +1,3 @@
-BulkOmics Tools
 Perform PCA, clustering and correlation analyses of the bulk omics data.
 
 Data used for testing:
